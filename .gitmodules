@@ -1,0 +1,6 @@
+[submodule "todosandjokes-server"]
+	path = todosandjokes-server
+	url = https://github.com/mateuszgrzelak/todosandjokes-server
+[submodule "todosandjokes-client"]
+	path = todosandjokes-client
+	url = https://github.com/mateuszgrzelak/todosandjokes-client
