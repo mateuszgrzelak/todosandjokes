@@ -1,7 +1,5 @@
 # TodosAndJokes
 
-Project of website that allow# TodosAndJokes
-
 Project of website that allows, after logging in, add todos and read jokes. The whole project has been devided into 2 parts: frontend (todosandjokes-client) and backend (todosandjokes-server). The main purpose of creating this application is to show programming skills and ability to separate visual layer from business logic.
 
 ## Test Account
